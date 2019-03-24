@@ -1,0 +1,29 @@
+@import '../Resources/WebsiteColors.scss';
+
+
+header{
+    background-color: var(--main-color);
+    color:var(--text-color);
+    padding: 0px 15px 0px 15px;
+
+    .navOption{
+        display: inline-block;
+        padding-left:15px;
+        padding-right: 15px;
+        a{
+            border-bottom: 2px solid $text-color;
+            color:var(--text-color);
+            text-decoration: none;
+        }
+        
+        &.navOptionSelected{
+            a{
+                border-bottom-color: $text-color-highlight;
+            }
+        
+        }
+    }
+    
+
+  
+}

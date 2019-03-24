@@ -1,0 +1,21 @@
+/*colors: https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=546E7A */
+header {
+  background-color: var(--main-color);
+  color: var(--text-color);
+  padding: 0px 15px 0px 15px;
+}
+header .navOption {
+  display: inline-block;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+header .navOption a {
+  border-bottom: 2px solid white;
+  color: var(--text-color);
+  text-decoration: none;
+}
+header .navOption.navOptionSelected a {
+  border-bottom-color: red;
+}
+
+/*# sourceMappingURL=Header.css.map */
