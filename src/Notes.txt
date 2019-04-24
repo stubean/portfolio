@@ -1,0 +1,25 @@
+Website Content Notes
+
+--Home
+    Hi! My name's Stuart and I'm a Front-End Engineer!
+--About
+	--College Degree?
+
+
+--Work
+	-Created Design System used in Cargas
+		-Get screen shot of design system's buttons page.
+			-Change some colors
+			-Blur the screen
+			-Remove CARGAS from the screenshot
+		-Talk about the reason for creating the design system
+    -Created Rescalable UI for Mobile device
+		-Landscape and Portrait picutes of device
+--Games
+	-Shrine to Anubis
+        -Gif title
+        -(Play demo)
+        -Link to steam/itch.io website
+        -About the Game
+        -Working with an artist(Communication)
+    -List of other games
