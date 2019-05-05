@@ -2,6 +2,9 @@ Website Content Notes
 
 --Home
     Hi! My name's Stuart and I'm a Front-End Engineer!
+	Hi! My name's Stuart and I make websites!
+	Hi, I'm Stuart :)
+		Welcome to my portfolio!
 --About
 	--College Degree?
 

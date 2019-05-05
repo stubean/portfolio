@@ -1,0 +1,13 @@
+@import 'SiteColors';
+
+#home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    #mainText{
+        font-size:42px;
+        color:$main-color;
+      
+    }
+}

@@ -1,0 +1,13 @@
+/*colors: https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=546E7A */
+#home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+#home #mainText {
+  font-size: 42px;
+  color: #C62828;
+}
+
+/*# sourceMappingURL=Home.css.map */
